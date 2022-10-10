@@ -1,5 +1,9 @@
 # Deploying a Flask API
 
+## External IP
+
+You can check the service at IP: `a8682fb5c64354146acbf46985e7ac5b-1219867442.us-west-2.elb.amazonaws.com`
+
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
 In this project you will containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.

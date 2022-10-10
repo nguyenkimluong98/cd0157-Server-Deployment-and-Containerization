@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: nguyenkimluong98
+    Default: nguyenkimluong98@gmail.com
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
